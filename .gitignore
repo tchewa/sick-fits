@@ -1,4 +1,11 @@
 node_modules/
-.cache/
-public
-.next
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
+*.env
+.keystone
+*.db
